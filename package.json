@@ -1,7 +1,8 @@
 {
   "name": "@jsuef/github-lib-template",
   "version": "1.0.0",
-  "description": "<img align=right width=\"168\" src=\"docs/gouef_logo.png\">",
+  "description": "github lib template",
+  "keywords": ["github", "lib", "library", "js", "template"],
   "main": "index.js",
   "directories": {
     "doc": "docs"
