@@ -5,6 +5,7 @@
 /vendor
 /coverage.txt
 /coverage.*
+/coverage
 # Binaries for programs and plugins
 *.exe
 *.exe~
@@ -12,7 +13,6 @@
 *.so
 *.dylib
 /node_modules
-/package-lock.json
 
 # Test binary, built with `go test -c`
 *.test

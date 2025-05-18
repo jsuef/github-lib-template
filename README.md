@@ -5,10 +5,14 @@ Github template for new libraries
 
 [![Static Badge](https://img.shields.io/badge/Github-jsuef%2Fgithub--lib--template-blue?style=for-the-badge&logo=github&link=github.com%2Fjsuef%2Fgithub-lib-template)](https://github.com/jsuef/github-lib-template)
 
-[![GoDoc](https://pkg.go.dev/badge/github.com/jsuef/github-lib-template.svg)](https://pkg.go.dev/github.com/jsuef/github-lib-template)
+[![NPM](https://img.shields.io/npm/v/@jsuef/github-lib-template.svg?style=flat-square)](https://www.npmjs.com/package/@jsuef/github-lib-template)
 [![GitHub stars](https://img.shields.io/github/stars/jsuef/github-lib-template?style=social)](https://github.com/jsuef/github-lib-template/stargazers)
-[![Go Report Card](https://goreportcard.com/badge/github.com/jsuef/github-lib-template)](https://goreportcard.com/report/github.com/jsuef/github-lib-template)
-[![codecov](https://codecov.io/github/jsuef/github-lib-template/branch/main/graph/badge.svg?token=YUG8EMH6Q8)](https://codecov.io/github/jsuef/github-lib-template)
+[![Downloads](https://img.shields.io/npm/dm/@jsuef/github-lib-template.svg?style=flat-square)](https://www.npmjs.com/package/@jsuef/github-lib-template)
+[![Build](https://github.com/jsuef/github-lib-template/actions/workflows/release.yml/badge.svg)](https://github.com/jsuef/github-lib-template/actions/workflows/release.yml)
+[![Codecov](https://codecov.io/gh/jsuef/github-lib-template/branch/main/graph/badge.svg?token=YUG8EMH6Q8)](https://codecov.io/gh/jsuef/github-lib-template)
+[![License](https://img.shields.io/npm/l/@jsuef/github-lib-template.svg?style=flat-square)](https://github.com/jsuef/github-lib-template/blob/main/LICENSE)
+[![Bundle size](https://img.shields.io/bundlephobia/min/@jsuef/github-lib-template?style=flat-square)](https://bundlephobia.com/result?p=@jsuef/github-lib-template)
+
 
 ## Versions
 ![Stable Version](https://img.shields.io/github/v/release/jsuef/github-lib-template?label=Stable&labelColor=green)
@@ -21,13 +25,18 @@ Github template for new libraries
 [![PHP Implementation](https://img.shields.io/badge/PHP-github--lib--template-4F5D95?logo=php&logoColor=white)](https://github.com/phpuef/github-lib-template)
 [![JavaScript Implementation](https://img.shields.io/badge/JavaScript-github--lib--template-f1e05a?logo=javascript&logoColor=black)](https://github.com/jsuef/github-lib-template)
 
-## Introduction
 
-This is template repository for new libraries
+## Installation
+
+To use this package in your project, add it using NPM:
+
+```bash
+npm i @jsuef/github-lib-template
+```
 
 ## Important
 
-- Edit go.mod and rename to your package module
+- Edit package.json, .changeset/config.json and rename to your package module
 - Uncomment .github/workflows/tests.yml
 
 ## Contributing
